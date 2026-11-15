@@ -22,8 +22,8 @@
     {
       "name": "my-skills",
       "source": "./plugins/my-skills",
-      "description": "특정 목적에 묶이지 않는 범용 스킬 모음 — 질문·설명을 한 메시지에 하나씩 진행(step-by-step)",
-      "version": "1.0.0"
+      "description": "특정 목적에 묶이지 않는 범용 스킬 모음 — 질문·설명을 한 메시지에 하나씩 진행(step-by-step), 앞 답변을 짧게 요약(simplify)",
+      "version": "1.1.0"
     }
   ]
 }
