@@ -1,11 +1,11 @@
-# claude-plugins
+# claude-marketplace
 
 Kim Junyoung의 개인 Claude Code 플러그인 마켓플레이스입니다. 플러그인은 각자 자기 저장소에 있고, 이 저장소에는 목록(`marketplace.json`)만 있습니다.
 
 ## 추가
 
 ```
-/plugin marketplace add kimjunyoung90/claude-plugins
+/plugin marketplace add kimjunyoung90/claude-marketplace
 ```
 
 ## 플러그인
